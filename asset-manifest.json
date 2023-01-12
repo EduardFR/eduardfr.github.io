@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.80d9f483.css",
-    "main.js": "/static/js/main.a88d4673.js",
-    "static/media/my-photo.jpg": "/static/media/my-photo.e8c9ed434a2306e63c04.jpg",
+    "main.js": "/static/js/main.5faefb4c.js",
+    "static/media/my-photo.jpg": "/static/media/my-photo.93efd25a8fb8234744a1.jpg",
     "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
     "static/media/SpaceGrotesk-Bold.ttf": "/static/media/SpaceGrotesk-Bold.96e001703fcc4898de0e.ttf",
     "static/media/ProjectScrin.jpeg": "/static/media/ProjectScrin.54af03609aeb795f3b22.jpeg",
@@ -12,10 +12,10 @@
     "static/media/LinkedIn.svg": "/static/media/LinkedIn.947d6ce62ea9effa9c5de1009fa9e80c.svg",
     "index.html": "/index.html",
     "main.80d9f483.css.map": "/static/css/main.80d9f483.css.map",
-    "main.a88d4673.js.map": "/static/js/main.a88d4673.js.map"
+    "main.5faefb4c.js.map": "/static/js/main.5faefb4c.js.map"
   },
   "entrypoints": [
     "static/css/main.80d9f483.css",
-    "static/js/main.a88d4673.js"
+    "static/js/main.5faefb4c.js"
   ]
 }
