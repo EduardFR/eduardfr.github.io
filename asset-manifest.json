@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.80d9f483.css",
-    "main.js": "/static/js/main.b9d0796b.js",
+    "main.js": "/static/js/main.fe93afa8.js",
     "static/media/my-photo.jpg": "/static/media/my-photo.93efd25a8fb8234744a1.jpg",
     "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
     "static/media/SpaceGrotesk-Bold.ttf": "/static/media/SpaceGrotesk-Bold.96e001703fcc4898de0e.ttf",
     "static/media/ProjectMultiStepForm.png": "/static/media/ProjectMultiStepForm.245b1cdee1ccb7a9e3d1.png",
+    "static/media/GeneratePassword.png": "/static/media/GeneratePassword.350c4b51d454c5cdb791.png",
     "static/media/ProjectScrin.jpeg": "/static/media/ProjectScrin.54af03609aeb795f3b22.jpeg",
     "static/media/Frontendmentor.svg": "/static/media/Frontendmentor.1328650e627febe6fad4c7dabab276b0.svg",
     "static/media/Git.svg": "/static/media/Git.374473a4e3cb16c2dc7c60c7c0a77a15.svg",
@@ -13,10 +14,10 @@
     "static/media/LinkedIn.svg": "/static/media/LinkedIn.947d6ce62ea9effa9c5de1009fa9e80c.svg",
     "index.html": "/index.html",
     "main.80d9f483.css.map": "/static/css/main.80d9f483.css.map",
-    "main.b9d0796b.js.map": "/static/js/main.b9d0796b.js.map"
+    "main.fe93afa8.js.map": "/static/js/main.fe93afa8.js.map"
   },
   "entrypoints": [
     "static/css/main.80d9f483.css",
-    "static/js/main.b9d0796b.js"
+    "static/js/main.fe93afa8.js"
   ]
 }
